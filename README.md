@@ -1,6 +1,8 @@
 # Discord-Welcome-Chat-Spammer
 
-Demo - against tos so definitely don't use it :|
+Video of it in use: https://streamable.com/igzaeh
+
+Demonstration purposes - against tos so definitely don't use it :|
 
 This software - upon having the 3 variables of token,server and server id filled in, will constantly join and leave.
 
